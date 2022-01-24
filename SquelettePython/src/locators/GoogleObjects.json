@@ -1,0 +1,5 @@
+{
+"Champ Recherche" : "//input[@name='q']",
+"Accepter Google Cookies" : "//*[contains(text(),'I agree')]/ancestor::button",
+"Titre premier resultat" : "(//h3)[1]"
+}
